@@ -749,37 +749,41 @@ for index, row in data.head(n=5).iterrows()    :
 ```
 
    Loading pages (1/6)<br>
-   Counting pages (2/6)<br>                     
-   Resolving links (4/6)<br>                                                     
-   Loading headers and footers (5/6)<br>                                         
+   Counting pages (2/6)<br>
+   Resolving links (4/6)<br>
+   Loading headers and footers (5/6)<br>
    Printing pages (6/6)<br>
-   Done <br>        
+   Done <br>
+   
    Loading pages (1/6)<br>
-   Counting pages (2/6)<br>                     
-   Resolving links (4/6)<br>                                                     
-   Loading headers and footers (5/6)<br>                                         
+   Counting pages (2/6)<br>
+   Resolving links (4/6)<br>
+   Loading headers and footers (5/6)<br>
    Printing pages (6/6)<br>
-   Done <br>        
+   Done <br>
+   
    Loading pages (1/6)<br>
-   Counting pages (2/6)<br>                     
-   Resolving links (4/6)<br>                                                     
-   Loading headers and footers (5/6)<br>                                         
+   Counting pages (2/6)<br>
+   Resolving links (4/6)<br>
+   Loading headers and footers (5/6)<br>
    Printing pages (6/6)<br>
-   Done <br>        
+   Done <br>
+   
    Loading pages (1/6)<br>
-   Counting pages (2/6)<br>                     
-   Resolving links (4/6)<br>                                                     
-   Loading headers and footers (5/6)<br>                                         
+   Counting pages (2/6)<br>
+   Resolving links (4/6)<br>
+   Loading headers and footers (5/6)<br>
    Printing pages (6/6)<br>
-   Done <br>        
+   Done <br>
+   
    Loading pages (1/6)<br>
-   Counting pages (2/6)<br>                     
-   Resolving links (4/6)<br>                                                     
-   Loading headers and footers (5/6)<br>                                         
+   Counting pages (2/6)<br>
+   Resolving links (4/6)<br>
+   Loading headers and footers (5/6)<br>
    Printing pages (6/6)<br>
-   Done <br>         
-
-#### **generated 5 pdf files with thier corresponding enteries**
+   Done <br>
+   
+   #### **generated 5 pdf files with thier corresponding enteries**
 
 <p float="left">
 <img align="left" src="../Res/PDFS.png" width="250"/><img src="../Res/GIF.gif" width="450" />
