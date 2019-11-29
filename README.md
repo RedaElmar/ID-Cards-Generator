@@ -512,14 +512,14 @@ data.dtypes
 
 
 
-    code                int64
-    first_name         object
-    last_name          object
-    function           object
-    date_of_birth      object
-    submission_date    object
-    picture            object
-    dtype: object
+   code                int64
+   first_name         object
+   last_name          object
+   function           object
+   date_of_birth      object
+   submission_date    object
+   picture            object
+   dtype: object
 
 
 
@@ -539,14 +539,14 @@ data.dtypes
 
 
 
-    code                        int64
-    first_name                 object
-    last_name                  object
-    function                   object
-    date_of_birth      datetime64[ns]
-    submission_date    datetime64[ns]
-    picture                    object
-    dtype: object
+   code                        int64
+   first_name                 object
+   last_name                  object
+   function                   object
+   date_of_birth      datetime64[ns]
+   submission_date    datetime64[ns]
+   picture                    object
+   dtype: object
 
 
 
@@ -748,36 +748,36 @@ for index, row in data.head(n=5).iterrows()    :
     
 ```
 
-    Loading pages (1/6)
-    Counting pages (2/6)                                               
-    Resolving links (4/6)                                                       
-    Loading headers and footers (5/6)                                           
-    Printing pages (6/6)
-    Done                                                                      
-    Loading pages (1/6)
-    Counting pages (2/6)                                               
-    Resolving links (4/6)                                                       
-    Loading headers and footers (5/6)                                           
-    Printing pages (6/6)
-    Done                                                                      
-    Loading pages (1/6)
-    Counting pages (2/6)                                               
-    Resolving links (4/6)                                                       
-    Loading headers and footers (5/6)                                           
-    Printing pages (6/6)
-    Done                                                                      
-    Loading pages (1/6)
-    Counting pages (2/6)                                               
-    Resolving links (4/6)                                                       
-    Loading headers and footers (5/6)                                           
-    Printing pages (6/6)
-    Done                                                                      
-    Loading pages (1/6)
-    Counting pages (2/6)                                               
-    Resolving links (4/6)                                                       
-    Loading headers and footers (5/6)                                           
-    Printing pages (6/6)
-    Done                                                                      
+   Loading pages (1/6)
+   Counting pages (2/6)                                               
+   Resolving links (4/6)                                                       
+   Loading headers and footers (5/6)                                           
+   Printing pages (6/6)
+   Done                                                                      
+   Loading pages (1/6)
+   Counting pages (2/6)                                               
+   Resolving links (4/6)                                                       
+   Loading headers and footers (5/6)                                           
+   Printing pages (6/6)
+   Done                                                                      
+   Loading pages (1/6)
+   Counting pages (2/6)                                               
+   Resolving links (4/6)                                                       
+   Loading headers and footers (5/6)                                           
+   Printing pages (6/6)
+   Done                                                                      
+   Loading pages (1/6)
+   Counting pages (2/6)                                               
+   Resolving links (4/6)                                                       
+   Loading headers and footers (5/6)                                           
+   Printing pages (6/6)
+   Done                                                                      
+   Loading pages (1/6)
+   Counting pages (2/6)                                               
+   Resolving links (4/6)                                                       
+   Loading headers and footers (5/6)                                           
+   Printing pages (6/6)
+   Done                                                                      
     
 
 #### **generated 5 pdf files with thier corresponding enteries**
