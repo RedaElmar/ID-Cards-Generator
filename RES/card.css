@@ -1,0 +1,75 @@
+@page {
+    /* dimensions for the whole page */
+    size: 74mm 51.7mm;
+    
+    margin: 0;
+}
+
+html {
+    /* off-white, so body edge is visible in browser */
+    background: #eee;
+}
+
+body {
+    height: 51.7mm;
+    width: 74mm;
+
+    margin: 0;
+}
+#BARCODE {
+  z-index: 11;
+  width: 7cm;
+  height: 0.8cm;
+  position: fixed;
+  top: 0;
+  margin-top: 41mm;
+  margin-left: 3mm;
+
+}
+/* fill half the height with each face */
+.face {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+/* an image that fills the whole of the front face */
+.face-front img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+#infoi {
+    width: 50mm;
+    height: 35mm;
+    position: fixed;
+    top: 0;
+    text-align: center;
+    margin-left: -12.5mm;
+    margin-top: -0.8mm;
+  }
+#infoi {
+    z-index: 10;
+  }
+#info {
+    width: 69mm;
+    height: 50mm;
+    position: fixed;
+    top: 0;
+    text-align: right;
+    margin-top: 15mm;
+  }
+#info {
+    z-index: 09;
+  }
+#infoi img {
+    position: relative;
+    margin-left: 7.8mm;
+    margin-top: 5.7mm;
+
+
+}
