@@ -1,5 +1,5 @@
 
-<img src="../Res/header.png" />
+![header](https://user-images.githubusercontent.com/30802364/69887234-e65abc80-12dd-11ea-8111-3643447fd4ca.PNG)
 
 # ID Card Generator Project P001 CODE ESI
 
@@ -786,7 +786,7 @@ for index, row in data.head(n=5).iterrows()    :
    #### **generated 5 pdf files with thier corresponding enteries**
 
 <p float="left">
-<img align="left" src="../Res/PDFS.png" width="250"/><img src="../Res/GIF.gif" width="450" />
+<img align="left" src="https://user-images.githubusercontent.com/30802364/69887237-e9ee4380-12dd-11ea-9df4-17475b27a3c1.PNG" width="250"/><img src="https://user-images.githubusercontent.com/30802364/69887338-5cf7ba00-12de-11ea-933c-f4d975633990.gif" width="450" />
 </p>
 
 ### done
