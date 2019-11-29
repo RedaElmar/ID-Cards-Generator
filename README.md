@@ -749,44 +749,16 @@ for index, row in data.head(n=5).iterrows()    :
 ```
 
    Loading pages (1/6)<br>
-   Counting pages (2/6)<br>
-   Resolving links (4/6)<br>
-   Loading headers and footers (5/6)<br>
-   Printing pages (6/6)<br>
-   Done <br>
-   
-   Loading pages (1/6)<br>
-   Counting pages (2/6)<br>
-   Resolving links (4/6)<br>
-   Loading headers and footers (5/6)<br>
-   Printing pages (6/6)<br>
-   Done <br>
-   
-   Loading pages (1/6)<br>
-   Counting pages (2/6)<br>
-   Resolving links (4/6)<br>
-   Loading headers and footers (5/6)<br>
-   Printing pages (6/6)<br>
-   Done <br>
-   
-   Loading pages (1/6)<br>
-   Counting pages (2/6)<br>
-   Resolving links (4/6)<br>
-   Loading headers and footers (5/6)<br>
-   Printing pages (6/6)<br>
-   Done <br>
-   
-   Loading pages (1/6)<br>
-   Counting pages (2/6)<br>
-   Resolving links (4/6)<br>
-   Loading headers and footers (5/6)<br>
-   Printing pages (6/6)<br>
-   Done <br>
+    Counting pages (2/6)<br>
+     Resolving links (4/6)<br>
+      Loading headers and footers (5/6)<br>
+       Printing pages (6/6)<br>
+        Done <br>
    
    #### **generated 5 pdf files with thier corresponding enteries**
 
 <p float="left">
-<img align="left" src="https://user-images.githubusercontent.com/30802364/69887237-e9ee4380-12dd-11ea-9df4-17475b27a3c1.PNG" width="250"/><img src="https://user-images.githubusercontent.com/30802364/69887338-5cf7ba00-12de-11ea-933c-f4d975633990.gif" width="450" />
+<img align="left" src="https://user-images.githubusercontent.com/30802364/69887237-e9ee4380-12dd-11ea-9df4-17475b27a3c1.PNG" width="250"/><img align="right" src="https://user-images.githubusercontent.com/30802364/69887338-5cf7ba00-12de-11ea-933c-f4d975633990.gif" width="450" />
 </p>
 
-### done
+### Thank you
